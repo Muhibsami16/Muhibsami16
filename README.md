@@ -7,9 +7,8 @@ I love building responsive and user-friendly web interfaces. Passionate about cr
 ## 🔧 Skills & Technologies  
 - 🌐 HTML5, CSS3, JavaScript (ES6+)  
 - 🎨 Responsive Web Design (Flexbox, Grid)  
-- ⚡ CSS Preprocessors (SASS/SCSS)  
+- ⚡ CSS Frameworks (Bootstrap 5 & Tailwind.Css)
 - 🔥 JavaScript Frameworks (React.js - Learning 📚)  
 - 🛠️ Version Control (Git & GitHub)  
 
-
-                    💡 *Code, Create, & Innovate!* ✨  
+  💡 *Code, Create, & Innovate!* ✨  
