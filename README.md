@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Muhibsami16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Muhib Sami   
 
-<!---
-Muhibsami16/Muhibsami16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Frontend Developer | HTML, CSS & JavaScript Enthusiast**  
+
+I love building responsive and user-friendly web interfaces. Passionate about crafting clean, maintainable, and efficient code. Always eager to learn and explore new web technologies.  
+
+## 🔧 Skills & Technologies  
+- 🌐 HTML5, CSS3, JavaScript (ES6+)  
+- 🎨 Responsive Web Design (Flexbox, Grid)  
+- ⚡ CSS Preprocessors (SASS/SCSS)  
+- 🔥 JavaScript Frameworks (React.js - Learning 📚)  
+- 🛠️ Version Control (Git & GitHub)  
+
+
+                    💡 *Code, Create, & Innovate!* ✨  
